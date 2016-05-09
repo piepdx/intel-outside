@@ -1,4 +1,5 @@
 # Companies
+- [AA-ISP Portland](https://www.aa-isp.org/chapter.php?id=11 "AA-ISP Portland")
 - [ADX](http://adxportland.com/ "ADX")
 - [AKQA](http://www.akqa.com/ "AKQA")
 - [ALPFA](http://www.alpfa.org/ "ALPFA")
@@ -26,6 +27,7 @@
 - [Daimler Trucks North America](https://www.daimler-trucksnorthamerica.com/ "Daimler Trucks North America")
 - [DeskHub Portland](http://deskhub.com/portland "DeskHub Portland")
 - [Digimarc](https://www.digimarc.com "Digimarc")
+- [DiscoverOrg](http://discoverorg.com/ "DiscoverOrg")
 - [dot dot dash](http://dotdotdash.io/ "dot dot dash")
 - [DWFritz Automation](http://dwfritz.com/ “DWFritz Automation”)
 - [eBay](http://ebay.com "eBay")
@@ -41,6 +43,7 @@
 - [InsideTrack](http://www.insidetrack.com/ "InsideTrack")
 - [Jaguar Land Rover Incubator](https://www.jlrtechincubator.com/jlrti/ "Jaguar Land Rover Incubator")
 - [Kalles Group](http://www.kallesgroup.com/ “Kalles Group”)
+- [Legacy Health](http://www.legacyhealth.org/ "Legacy Health")
 - [Looptworks](http://www.looptworks.com/ "Looptworks")
 - [Mathys+Potestio](http://mathys-potestio.com/ "Mathys+Potestio")
 - [MBT Marketing](http://mbtmarketing.com "MBT Marketing")
