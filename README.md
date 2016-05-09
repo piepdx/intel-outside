@@ -11,5 +11,5 @@ We’re a community. And this is what communities do.
 - [Companies supporting this effort](https://github.com/piepdx/intel-outside/blob/master/companies.md)
 - Events around this effort 
 - Sites
-	- [Accelerate Your Job Search](https://accelerateyourjobsearch.wordpress.com/ “Accelerate Your Job Search”)
-	- [(Tech) Job Hunting Tips](https://techjobtips.wordpress.com/ “(Tech) Job Hunting Tips”)
+	- [Accelerate Your Job Search](https://accelerateyourjobsearch.wordpress.com/)
+	- [(Tech) Job Hunting Tips](https://techjobtips.wordpress.com/)
