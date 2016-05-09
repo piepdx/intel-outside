@@ -8,7 +8,7 @@ Why? Because it’s the right thing to do. Our companies need talent. These form
 We’re a community. And this is what communities do.
 
 ## Resources
-- Companies supporting this effort
+- [Companies supporting this effort](https://github.com/piepdx/intel-outside/blob/master/companies.md “Companies”)
 - Events around this effort 
 - Sites
 	- [Accelerate Your Job Search](https://accelerateyourjobsearch.wordpress.com/ “Accelerate Your Job Search”)
