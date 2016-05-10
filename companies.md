@@ -1,5 +1,5 @@
 # Companies
-The following is a list of companies who have stepped forward to support those affected by the Intel layoffs. 
+The following is a list of companies and organizations in our community who have stepped forward to support those affected by the Intel layoffs. 
 
 ## Companies
 - [Antenna](http://antenna.is "Antenna")
