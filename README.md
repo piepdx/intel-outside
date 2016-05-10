@@ -11,6 +11,10 @@ We’re a community. And this is what communities do.
 - [Companies supporting this effort](https://github.com/piepdx/intel-outside/blob/master/companies.md)
 - Events 
 	- [Tech events in Portland](http://calagator.org/)
+- Local job boards
+	- [Mac's List](https://www.macslist.org/)
+	- [PDX Pipeline](http://pdxpipeline.com/jobs/ "PDX Pipeline")
+	- [Silicon Florist](http://siliconflorist.com/jobs/) 
 - Sites
 	- [Accelerate Your Job Search](https://accelerateyourjobsearch.wordpress.com/)
 	- [(Tech) Job Hunting Tips](https://techjobtips.wordpress.com/)
