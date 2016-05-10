@@ -10,6 +10,7 @@ We’re a community. And this is what communities do.
 ## Resources
 - [Companies supporting this effort](https://github.com/piepdx/intel-outside/blob/master/companies.md)
 - Events 
+	- [A Portland community effort to support those affected by the Intel layoffs](https://jobsinpdx.eventbrite.com)
 	- [Tech events in Portland](http://calagator.org/)
 - Local job boards
 	- [Mac's List](https://www.macslist.org/)
