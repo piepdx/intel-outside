@@ -16,6 +16,10 @@ We’re a community. And this is what communities do.
 	- [Mac's List](https://www.macslist.org/)
 	- [PDX Pipeline](http://pdxpipeline.com/jobs/ "PDX Pipeline")
 	- [Silicon Florist](http://siliconflorist.com/jobs/) 
+- News
+	- Portland Business Journal: [Meet the Intel Eliminati, the group of Portlanders aspiring to help their laid-off peers](http://www.bizjournals.com/portland/blog/techflash/2016/05/meet-the-intel-eliminati-the-group-of-portlanders.html) 
+	- Silicon Florist: [Intel outside: Let’s figure out how to help those in our community affected by the Intel layoffs](http://siliconflorist.com/2016/05/03/intel-figure-community-affected-intel-layoffs/)
+	- The Oregonian: [Intel layoffs will strain Oregon hiring capacity, but help emerges for job seekers](http://www.oregonlive.com/silicon-forest/index.ssf/2016/05/intel_layoffs_will_strain_oreg.html)
 - Sites
 	- [Accelerate Your Job Search](https://accelerateyourjobsearch.wordpress.com/)
 	- [(Tech) Job Hunting Tips](https://techjobtips.wordpress.com/)
