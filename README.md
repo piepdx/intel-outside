@@ -9,7 +9,8 @@ We’re a community. And this is what communities do.
 
 ## Resources
 - [Companies supporting this effort](https://github.com/piepdx/intel-outside/blob/master/companies.md)
-- Events around this effort 
+- Events 
+	- [Tech events in Portland](http://calagator.org/)
 - Sites
 	- [Accelerate Your Job Search](https://accelerateyourjobsearch.wordpress.com/)
 	- [(Tech) Job Hunting Tips](https://techjobtips.wordpress.com/)
