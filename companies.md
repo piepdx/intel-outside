@@ -135,6 +135,7 @@ First and foremost, check out the [Intel Alumni Network](http://intelalumni.org/
 - [American Chemical Society](http://www.acs.org/ "American Chemical Society")
 - [Ashwood Group](http://ashwoodgroup.com "Ashwood Group")
 - [Built Oregon](http://builtoregon.com "Built Oregon")
+- [Intel Alumni Network](http://intelalumni.org/ "Intel Alumni Network")
 - [Navigate IT](http://www.meetup.com/Navigate/ "Navigate")
 - [Oregon Games Organization](http://www.oregongames.org/ "Oregon Games Organization")
 - [PDX Pipeline](http://pdxpipeline.com/jobs/ "PDX Pipeline")
