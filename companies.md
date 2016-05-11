@@ -1,6 +1,8 @@
 # Companies
 The following is a list of companies and organizations in our community who have stepped forward to support those affected by the Intel layoffs. If you would like your company added to this list (and would rather not muck around with Github), [please feel free to complete this form](http://goo.gl/forms/0dSlswYf5p) and we'll get you added as soon as we can.
 
+First and foremost, check out the [Intel Alumni Network](http://intelalumni.org/ "Intel Alumni Network").
+
 ## Companies
 - [Antenna](http://antenna.is "Antenna")
 - [Avea Solutions](http://aveasolutions.com "Avea Solutions")
@@ -19,6 +21,7 @@ The following is a list of companies and organizations in our community who have
 - [eBay](http://ebay.com "eBay")
 - [Exterro](http://www.exterro.com/ "Exterro")
 - [Flowrev](https://www.flowrev.com/ "Flowrev")
+- [Fresco Logic](http://www.frescologic.com/ "Fresco Logic")
 - [GTS Services](https://gtsservices.com/ "GTS Services")
 - [Incomm](http://www.incomm.com/ "Incomm")
 - [InsideTrack](http://www.insidetrack.com/ "InsideTrack")
@@ -31,6 +34,7 @@ The following is a list of companies and organizations in our community who have
 - [Oberon3](http://www.opiniator.com/ "Oberon3")
 - [OpenSesame](https://www.opensesame.com/ "OpenSesame")
 - [Orchestra Software](http://www.orchestrasoftware.com/ "http://www.orchestrasoftware.com/") 
+- [Oregon State Police](http://www.oregon.gov/OSP/pages/index.aspx "Oregon State Police")
 - [Outdoor Project](http://www.outdoorproject.com/ "Outdoor Project")
 - [PrishanTek](http://www.prishantek.com/ "PrishanTek")
 - [Prolifiq](https://prolifiq.com/ "Prolifiq")
@@ -42,12 +46,14 @@ The following is a list of companies and organizations in our community who have
 - [Salesforce](http://salesforce.com "Salesforce")
 - [Seed](http://seed.co/ "Seed")
 - [Senrio](http://senr.io/ "Senrio")
+- [Simple](http://simple.com "Simple")
 - [Slopeswell Cider Co](http://www.slopeswell.com/ "Slopeswell Cider Co")
 - [Smarsh](http://www.smarsh.com/ "Smarsh")
 - [SSI Shredding Systems](https://www.ssiworld.com "SSI Shredding Systems")
 - [StackPath](http://www.stackpath.com "StackPath")
 - [SuperGenius](http://supergeniusstudio.com/ "SuperGenius")
 - [SUSE](https://www.suse.com/ "SUSE")
+- [Timbercon](http://www.timbercon.com/ "Timbercon")
 - [Urban Airship](https://www.urbanairship.com/ "Urban Airship")
 - [Vacasa](https://www.vacasa.com/ "Vacasa")
 - [Vigor](http://vigor.net "Vigor")
@@ -81,12 +87,14 @@ The following is a list of companies and organizations in our community who have
 - [ThinkShout](https://thinkshout.com/ "ThinkShout")
 - [thoughtbot](https://thoughtbot.com/ "thoughtbot")
 - [Uncorked Studios](https://uncorkedstudios.com/ "Uncorked Studios")
+- [WE Communications](https://www.we-worldwide.com/ "WE Communications")
 - [Whitsell Computer Services](http://www.whitsell.com/ "Whitsell Computer Services")
 - [Wieden+Kennedy Lodge](https://wklodge.com "Wieden+Kennedy")
 
 ## Code schools
 - [Code Fellows](https://www.codefellows.org/ "Code Fellows")
 - [Epicodus](http://www.epicodus.com/ "Epicodus")
+- [Fidgets2Widgets](https://fidgets2widgets.com/ "Fidgets2Widgets")
 - [Operation Code](https://operationcode.org/ "Operation Code")
 - [Oregon Story Board](http://oregonstoryboard.org "Oregon Story Board")
 - [PDX Code Guild](http://pdxcodeguild.com "PDX Code Guild")
@@ -118,6 +126,8 @@ The following is a list of companies and organizations in our community who have
 ## Recruiting and staffing
 - [Flux Resources](http://workwithflux.com "Flux Resources")
 - [Kalles Group](http://www.kallesgroup.com/ "Kalles Group")
+- [Infogroup Northwest](http://www.infogroupnw.com/ "Infogroup Northwest")
+- [Xtreme Consulting Group](http://xtremeconsulting.com/ "Xtreme Consulting Group")
 
 ## Supporting organizations
 - [AA-ISP Portland](https://www.aa-isp.org/chapter.php?id=11 "AA-ISP Portland")
