@@ -3,6 +3,8 @@ The following is a list of companies and organizations in our community who have
 
 First and foremost, check out the [Intel Alumni Network](http://intelalumni.org/ "Intel Alumni Network").
 
+# Thank you so much to our generous job fair host, the [Falcon Building in Old Town](https://goo.gl/maps/4WAftjFex2r).
+
 ## Companies
 - [Antenna](http://antenna.is "Antenna")
 - [Avea Solutions](http://aveasolutions.com "Avea Solutions")
