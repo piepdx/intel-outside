@@ -7,6 +7,9 @@ Why? Because it’s the right thing to do. Our companies need talent. These form
 
 We’re a community. And this is what communities do.
 
+# Thank you so much to our generous job fair host, the [Falcon Building in Old Town](https://goo.gl/maps/4WAftjFex2r).
+
+
 ## Resources
 - [Companies supporting this effort](https://github.com/piepdx/intel-outside/blob/master/companies.md)
 - Events 
