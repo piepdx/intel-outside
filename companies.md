@@ -114,7 +114,6 @@ First and foremost, check out the [Intel Alumni Network](http://intelalumni.org/
 - [CENTRL Office](http://centrloffice.com "CENTRL Office")
 - [DeskHub Portland](http://deskhub.com/portland "DeskHub Portland")
 - [OTBC](https://otbc.org/ "OTBC")
-- [Portland State Business Accelerator](http://www.pdx.edu/accelerator/ "Portland State Business Accelerator")
 - [Shop People](http://www.shoppeople.org/ "Shop People")
 - [WeWork](https://www.wework.com/locations/portland/custom-house "WeWork")
 
@@ -126,6 +125,7 @@ First and foremost, check out the [Intel Alumni Network](http://intelalumni.org/
 - [Oregon Entrepreneurs Network](http://oen.org "Oregon Entrepreneurs Network")
 - [PIE](http://www.piepdx.com/ "PIE")
 - [Portland Seed Fund](http://www.portlandseedfund.com/ "Portland Seed Fund")
+- [Portland State Business Accelerator](http://www.pdx.edu/accelerator/ "Portland State Business Accelerator")
 - [Rogue Venture Partners](http://roguevp.com/ "Rogue Venture Partners")
 - [Seven Peaks Ventures](http://sevenpeaksventures.com/ "Seven Peaks Ventures")
 - [Small Business Development Center](http://www.bizcenter.org/ "Small Business Development Center")
