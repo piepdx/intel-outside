@@ -20,6 +20,7 @@ We’re a community. And this is what communities do.
 	- Portland Business Journal: [Meet the Intel Eliminati, the group of Portlanders aspiring to help their laid-off peers](http://www.bizjournals.com/portland/blog/techflash/2016/05/meet-the-intel-eliminati-the-group-of-portlanders.html) 
 	- Silicon Florist: [Intel outside: Let’s figure out how to help those in our community affected by the Intel layoffs](http://siliconflorist.com/2016/05/03/intel-figure-community-affected-intel-layoffs/)
 	- The Oregonian: [Intel layoffs will strain Oregon hiring capacity, but help emerges for job seekers](http://www.oregonlive.com/silicon-forest/index.ssf/2016/05/intel_layoffs_will_strain_oreg.html)
-- Sites
+- Resources
 	- [Accelerate Your Job Search](https://accelerateyourjobsearch.wordpress.com/)
+	- [Five steps to take now if your company has announced layoffs](http://raymondjames.com/saunderskellyachesonwealthmanagement/con_way_execs.htm "Five steps to take now if your company has announced layoffs")
 	- [(Tech) Job Hunting Tips](https://techjobtips.wordpress.com/)
