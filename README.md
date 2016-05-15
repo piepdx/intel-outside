@@ -12,7 +12,7 @@ We’re a community. And this is what communities do.
 
 ## Resources
 - Community
-	- [Companies supporting this effort](https://github.com/piepdx/intel-outside/blob/master/companies.md)
+	- [Companies supporting this effort](companies.md)
 	- [Portland Startups Slack](https://pdx-startups-slack.herokuapp.com/ "Portland Startups Slack"): Chat with more than 1800 members of the Portland startup community
 	- [Portland Startup Switchboard](http://pdxstartups.switchboardhq.com "Portland Startups Switchboard"): Ask for what you need. Offer what you can.
 - Events 
