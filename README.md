@@ -17,6 +17,7 @@ We’re a community. And this is what communities do.
 	- [Portland Startup Switchboard](http://pdxstartups.switchboardhq.com "Portland Startups Switchboard"): Ask for what you need. Offer what you can.
 - Events 
 	- [A Portland community effort to support those affected by the Intel layoffs](https://jobsinpdx.eventbrite.com)
+	- [Startup events in Portland](https://www.startupdigest.com/digests/portland)
 	- [Tech events in Portland](http://calagator.org/)
 - Local job boards
 	- [Mac's List](https://www.macslist.org/)
