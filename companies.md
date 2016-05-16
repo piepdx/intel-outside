@@ -125,6 +125,8 @@ First and foremost, check out the [Intel Alumni Network](http://intelalumni.org/
 - [Oregon Entrepreneurs Network](http://oen.org "Oregon Entrepreneurs Network")
 - [PIE](http://www.piepdx.com/ "PIE")
 - [Portland Seed Fund](http://www.portlandseedfund.com/ "Portland Seed Fund")
+- [Portland Startup Digest](https://www.startupdigest.com/digests/portland "Portland Startup Digest")
+- [Portland Startup Weekend](http://www.up.co/communities/usa/portland/ "Portland Startup Weekend")
 - [Portland State Business Accelerator](http://www.pdx.edu/accelerator/ "Portland State Business Accelerator")
 - [Rogue Venture Partners](http://roguevp.com/ "Rogue Venture Partners")
 - [Seven Peaks Ventures](http://sevenpeaksventures.com/ "Seven Peaks Ventures")
