@@ -49,6 +49,7 @@ First and foremost, check out the [Intel Alumni Network](http://intelalumni.org/
 - [Puppet](http://puppet.com "Puppet")
 - [Qcut](https://qcut.com/ "Qcut")
 - [Qorvo](http://www.qorvo.com/ "Qorvo")
+- [Rave](http://ravesocial.co/careers/ "Rave Social")
 - [Red Hat](https://www.redhat.com "Red Hat")
 - [Roberts](http://robertspdx.com/ "Roberts")
 - [Rubicon International](https://www.rubicon.com/ "Rubicon International")
