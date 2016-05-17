@@ -154,7 +154,7 @@ First and foremost, check out the [Intel Alumni Network](http://intelalumni.org/
 ## Supporting organizations
 - [AA-ISP Portland](https://www.aa-isp.org/chapter.php?id=11 "AA-ISP Portland")
 - [ALPFA](http://www.alpfa.org/ "ALPFA")
-- [American Chemical Society](http://portland-or.sites.acs.org "American Chemical Society")
+- [American Chemical Society](http://portland-or.sites.acs.org "Portland chapter of the American Chemical Society")
 - [Ashwood Group](http://ashwoodgroup.com "Ashwood Group")
 - [Built Oregon](http://builtoregon.com "Built Oregon")
 - Corporate Quality and Reliability Network
