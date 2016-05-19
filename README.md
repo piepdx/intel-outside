@@ -13,8 +13,9 @@ We’re a community. And this is what communities do.
 ## Resources
 - Community
 	- [Companies supporting this effort](companies.md)
-	- [Portland Startups Slack](https://pdx-startups-slack.herokuapp.com/ "Portland Startups Slack"): Chat with more than 1800 members of the Portland startup community
-	- [Portland Startup Switchboard](http://pdxstartups.switchboardhq.com "Portland Startups Switchboard"): Ask for what you need. Offer what you can.
+	- [How to Portland startup scene](https://medium.com/portland-startups/how-to-portland-startup-scene-f4c89095f6fb#.un7oz3l7l "How to Portland startup scene")
+		- [Portland Startups Slack](https://pdx-startups-slack.herokuapp.com/ "Portland Startups Slack"): Chat with more than 1800 members of the Portland startup community
+		- [Portland Startup Switchboard](http://pdxstartups.switchboardhq.com "Portland Startups Switchboard"): Ask for what you need. Offer what you can.
 - Events 
 	- [A Portland community effort to support those affected by the Intel layoffs](https://jobsinpdx.eventbrite.com)
 	- [Startup events in Portland](https://www.startupdigest.com/digests/portland)
