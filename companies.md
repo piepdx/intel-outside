@@ -76,6 +76,7 @@ First and foremost, check out the [Intel Alumni Network](http://intelalumni.org/
 - [UpGuard](https://www.upguard.com/ "UpGuard")
 - [Urban Airship](https://www.urbanairship.com/ "Urban Airship")
 - [Vacasa](https://www.vacasa.com/ "Vacasa")
+- [Viewpoint](http://viewpoint.com "Viewpoint")
 - [Vigor](http://vigor.net "Vigor")
 - [Welocalize](https://www.welocalize.com/ "Welocalize")
 - [Willamette University](http://willamette.edu/ "Willamette University")
@@ -153,6 +154,7 @@ First and foremost, check out the [Intel Alumni Network](http://intelalumni.org/
 - [Flux Resources](http://workwithflux.com "Flux Resources")
 - [Kalles Group](http://www.kallesgroup.com/ "Kalles Group")
 - [Infogroup Northwest](http://www.infogroupnw.com/ "Infogroup Northwest")
+- [Lighthouse Global Resources](http://www.lighthouseglobal.com.sg/ "Lighthouse Global Resources")
 - [Scopic](http://www.getscopic.com/ "Scopic")
 - [Xtreme Consulting Group](http://xtremeconsulting.com/ "Xtreme Consulting Group")
 
