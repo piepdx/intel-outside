@@ -259,4 +259,4 @@ First and foremost, check out the [Intel Alumni Network](http://intelalumni.org/
 - [TechFestNW](http://techfestnw.com "TechFestNW")
 - [Technology Association of Oregon](http://techoregon.org/ "Technology Association of Oregon")
 - [Women Who Code Portland](http://www.meetup.com/Women-Who-Code-Portland/ "Women Who Code Portland")
-- WorkSource Oregon
+- [WorkSource Oregon](http://www.worksourceoregon.org/ "WorkSource Oregon")
