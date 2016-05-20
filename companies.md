@@ -7,6 +7,7 @@ First and foremost, check out the [Intel Alumni Network](http://intelalumni.org/
 
 ## Companies
 - [Antenna](http://antenna.is "Antenna")
+- [ASML/Brion](https://www.asml.com "ASML/Brion")
 - [Avea Solutions](http://aveasolutions.com "Avea Solutions")
 - [Axiom Electronics](http://www.axiomsmt.com/ "Axiom Electronics")
 - [Bigleaf Networks](http://www.bigleaf.net/ "Bigleaf Networks")
@@ -40,6 +41,7 @@ First and foremost, check out the [Intel Alumni Network](http://intelalumni.org/
 - [Mozilla](https://www.mozilla.org "Mozilla")
 - [New Relic](https://newrelic.com/ "New Relic")
 - [New York Life](http://www.newyorklife.com/ "New York Life")
+- [Nike](http://nike.com/ "Nike")
 - [NurseGrid](http://nursegrid.com/ "NurseGrid")
 - [Oberon3](http://www.opiniator.com/ "Oberon3")
 - [Opal](https://workwithopal.com/ "Opal")
@@ -105,6 +107,7 @@ First and foremost, check out the [Intel Alumni Network](http://intelalumni.org/
 - [Metal Toad](http://metaltoad.com "Metal Toad")
 - [Object Theory](http://objecttheory.com/ "Object Theory")
 - [Oleron Technologies](http://www.olerontech.com/ "Oleron Technologies")
+- [Portland Design Studio](http://pdsidesign.com/ "Portland Design Studio")
 - [Rigado](https://www.rigado.com/ "Rigado")
 - [thinkCHARM](http://www.dustiarab.com/thinkCHARM "thinkCHARM")
 - [ThinkShout](https://thinkshout.com/ "ThinkShout")
@@ -112,7 +115,8 @@ First and foremost, check out the [Intel Alumni Network](http://intelalumni.org/
 - [Uncorked Studios](https://uncorkedstudios.com/ "Uncorked Studios")
 - [WE Communications](https://www.we-worldwide.com/ "WE Communications")
 - [Whitsell Computer Services](http://www.whitsell.com/ "Whitsell Computer Services")
-- [Wieden+Kennedy Lodge](https://wklodge.com "Wieden+Kennedy")
+- [Wieden+Kennedy](http://wk.com/ "Wieden+Kennedy")
+- [Wieden+Kennedy Lodge](https://wklodge.com "Wieden+Kennedy Lodge")
 
 ## Code schools
 - [Code Fellows](https://www.codefellows.org/ "Code Fellows")
@@ -180,3 +184,4 @@ First and foremost, check out the [Intel Alumni Network](http://intelalumni.org/
 - [TechFestNW](http://techfestnw.com "TechFestNW")
 - [Technology Association of Oregon](http://techoregon.org/ "Technology Association of Oregon")
 - [Women Who Code Portland](http://www.meetup.com/Women-Who-Code-Portland/ "Women Who Code Portland")
+- WorkSource Oregon
