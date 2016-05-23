@@ -160,6 +160,7 @@ First and foremost, check out the [Intel Alumni Network](http://intelalumni.org/
 - [Emerge Interactive](http://emergeinteractive.com "Emerge Interactive")
 - [Future State Consulting](http://fsconsults.com/ "Future State Consulting")
 - [Get Sushi Designs](https://twitter.com/getsushidesigns "Get Sushi Designs")
+- [Keystone Franchise Consulting](http://keystonefranchiseconsulting.com "Keystone Franchise Consulting") 
 - [Mathys+Potestio](http://mathys-potestio.com/ "Mathys+Potestio")
 	- [Jobs](http://mathys-potestio.com/find-creative-jobs/)
 - [MBT Marketing](http://mbtmarketing.com "MBT Marketing")
