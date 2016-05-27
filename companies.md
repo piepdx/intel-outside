@@ -28,6 +28,8 @@ First and foremost, check out the [Intel Alumni Network](http://intelalumni.org/
 - [Cliqa](http://micliqa.com/ "Cliqa")
 - [Cloudability](http://cloudability.com "Cloudability")
 - [Comcast](http://comcast.com)
+- [CorSource Technology Group](http://www.corsource.com/ "CorSource")
+	- [Jobs](http://www.corsource.com/careers)
 - [Cozy](http://cozy.co "Cozy")
 - [Customer.io](http://customer.io "Customer.io")
 	- [Jobs](https://boards.greenhouse.io/customerio/jobs/199660#.VzpIU5MrIkM)
