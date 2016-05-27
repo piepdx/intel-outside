@@ -67,6 +67,8 @@ First and foremost, check out the [Intel Alumni Network](http://intelalumni.org/
 - [Legacy Health](http://www.legacyhealth.org/ "Legacy Health")
 	- [Jobs](http://www.legacyhealth.org/for-health-professionals/careers.aspx)
 - [Looptworks](http://www.looptworks.com/ "Looptworks")
+- [Metal Toad](http://www.metaltoad.com/ "Metal Toad")
+	- [Jobs](https://www.metaltoad.com/careers/open-positions)
 - [MongoDB](https://www.mongodb.com/ "MongoDB")
 	- [Jobs](http://grnh.se/qi12m7)
 - [Mozilla](https://www.mozilla.org "Mozilla")
