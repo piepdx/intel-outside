@@ -31,6 +31,7 @@ First and foremost, check out the [Intel Alumni Network](http://intelalumni.org/
 - [CorSource Technology Group](http://www.corsource.com/ "CorSource")
 	- [Jobs](http://www.corsource.com/careers)
 - [Cozy](http://cozy.co "Cozy")
+	- [Jobs](https://cozy.co/jobs)
 - [Customer.io](http://customer.io "Customer.io")
 	- [Jobs](https://boards.greenhouse.io/customerio/jobs/199660#.VzpIU5MrIkM)
 - [Cylance](https://www.cylance.com/ "Cylance")
