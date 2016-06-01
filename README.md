@@ -34,3 +34,4 @@ We’re a community. And this is what communities do.
 	- [Accelerate Your Job Search](https://accelerateyourjobsearch.wordpress.com/)
 	- [Five steps to take now if your company has announced layoffs](http://raymondjames.com/saunderskellyachesonwealthmanagement/con_way_execs.htm "Five steps to take now if your company has announced layoffs")
 	- [(Tech) Job Hunting Tips](https://techjobtips.wordpress.com/)
+	- [Consider Going Back to School?  Check out Pacific University and their MAT STEM / ESOL Program] (http://www.pacificu.edu/future-graduate-professional/colleges/college-education/areas-study/master-arts-teaching-stemesol)  
