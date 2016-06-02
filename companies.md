@@ -5,7 +5,7 @@ First and foremost, check out the [Intel Alumni Network](http://intelalumni.org/
 
 # Thank you so much to our generous job fair host, the [Falcon Building in Old Town](https://goo.gl/maps/4WAftjFex2r).
 
-# Check out [Jacob Bendicksen](http://jacobbendicksen.com)'s (very partial and half-organized) [list of available jobs](https://docs.google.com/spreadsheets/d/1cGqK4xi9jipa8E3lSWAjw5V5QQmc2J9t_DdEGAdikJk/edit?usp=sharing).
+Check out [Jacob Bendicksen](http://jacobbendicksen.com)'s (very partial and half-organized) [list of available jobs](https://docs.google.com/spreadsheets/d/1cGqK4xi9jipa8E3lSWAjw5V5QQmc2J9t_DdEGAdikJk/edit?usp=sharing).
 
 ## Companies
 - [Antenna](http://antenna.is "Antenna")
