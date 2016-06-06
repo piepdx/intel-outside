@@ -65,6 +65,8 @@ Check out [Jacob Bendicksen](http://jacobbendicksen.com)'s (very partial and hal
 - [First Tech Credit Union](http://firsttechfed.com "First Tech Credit Union")
 - [FitForCloud](http://fitforcloud.com "FitForCloud")
 - [Flowrev](https://www.flowrev.com/ "Flowrev")
+- [FocusVision](https://www.focusvision.com)
+ 	- [Jobs](https://www.focusvision.com/careers_category/development/) 	
 - [Fresco Logic](http://www.frescologic.com/ "Fresco Logic")
 	- [Jobs](https://www.dice.com/jobs/detail/Application%26%2347Hardware-Engineer-Fresco-Logic%2C-Inc.-Beaverton-OR-97005/RTX1a9d51/4513991?icid=sr1-1p&q=fresco%20logic&l=Portland,%20OR)
 - [Green Bits](https://www.greenbits.com/ "Green Bits")
