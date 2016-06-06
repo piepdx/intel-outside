@@ -5,6 +5,8 @@ First and foremost, check out the [Intel Alumni Network](http://intelalumni.org/
 
 # Thank you so much to our generous job fair host, the [Falcon Building in Old Town](https://goo.gl/maps/4WAftjFex2r).
 
+Check out [Jacob Bendicksen](http://jacobbendicksen.com)'s (very partial and half-organized) [list of available jobs](https://docs.google.com/spreadsheets/d/1cGqK4xi9jipa8E3lSWAjw5V5QQmc2J9t_DdEGAdikJk/edit?usp=sharing).
+
 ## Companies
 - [Antenna](http://antenna.is "Antenna")
 - [ASML/Brion](https://www.asml.com "ASML/Brion")
@@ -63,6 +65,8 @@ First and foremost, check out the [Intel Alumni Network](http://intelalumni.org/
 - [First Tech Credit Union](http://firsttechfed.com "First Tech Credit Union")
 - [FitForCloud](http://fitforcloud.com "FitForCloud")
 - [Flowrev](https://www.flowrev.com/ "Flowrev")
+- [FocusVision](https://www.focusvision.com)
+ 	- [Jobs](https://www.focusvision.com/careers_category/development/) 	
 - [Fresco Logic](http://www.frescologic.com/ "Fresco Logic")
 	- [Jobs](https://www.dice.com/jobs/detail/Application%26%2347Hardware-Engineer-Fresco-Logic%2C-Inc.-Beaverton-OR-97005/RTX1a9d51/4513991?icid=sr1-1p&q=fresco%20logic&l=Portland,%20OR)
 - [Green Bits](https://www.greenbits.com/ "Green Bits")
