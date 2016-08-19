@@ -1,4 +1,6 @@
 # Intel Outside
+## **UPDATE** Another job fair is being held, August 24, 2016, in Beaverton. For more information, [High-tech Job Fair/Employer Registration](https://www.eventbrite.com/e/intel-jive-outplacement-event-high-tech-job-fairemployer-registration-tickets-26811980355).
+
 In case you haven’t heard, [Intel is in the midst of reducing its global workforce](http://www.bizjournals.com/portland/blog/techflash/2016/04/intel-bombshell-784-job-cuts-in-hillsboro-and.html). It’s a change that affects thousands of employees worldwide. And given that the Portland area is home to more Intel folks than anywhere on earth, it’s going to have significant impact here locally, as well. Like to the tune of [nearly 800 people in the Portland area losing their jobs](http://www.opb.org/news/article/intel-oregon-layoffs-job-cuts/).
 
 As per usual, the response from the Portland community has been pleasantly staggering. Folks have chimed in, offered to help, and started working toward a solution for those affected in our community.
