@@ -181,7 +181,8 @@ Check out [Jacob Bendicksen](http://jacobbendicksen.com)'s (very partial and hal
 
 ## Agencies and consultancies
 - [AKQA](http://www.akqa.com/ "AKQA")
-	- [Jobs](http://www.akqa.com/careers/)
+	- [Technology Jobs](https://www.akqa.com/careers/?refinementList%5Bdepartments.displayName%5D%5B0%5D=Technology)
+	- [Creative Jobs](https://www.akqa.com/careers/?refinementList%5Bdepartments.displayName%5D%5B0%5D=Creative)
 - [AltSource](https://www.altsrc.net/ "AltSource")
 	- [Jobs](https://www.altsrc.net/Careers)
 - [Citrusbyte](http://citrusbyte.com "Citrusbyte")
